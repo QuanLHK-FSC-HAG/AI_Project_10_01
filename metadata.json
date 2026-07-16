@@ -1,0 +1,6 @@
+{
+  "name": "AI Portfolio Hub",
+  "description": "Ứng dụng hỗ trợ học tập môn STEM AI lớp 10, thực hành viết Prompt RCTFC, quản lý Prompt Journal và xây dựng E-Portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
